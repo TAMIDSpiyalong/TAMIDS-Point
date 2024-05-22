@@ -1,2 +1,2 @@
 # TAMIDS_Point
-TAMIDS Point based Transformer
+Point based detection
